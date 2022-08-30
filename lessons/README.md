@@ -8,4 +8,4 @@ However you can complete the lessons online without the need to install or downl
 
 ### Google Colab
 
-1. DASS - WEEK 3 - Doing Data Analysis - [LINK]
+1. DASS - WEEK 3 - Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-3-doing-data-analysis-2022-09-26.ipynb)
