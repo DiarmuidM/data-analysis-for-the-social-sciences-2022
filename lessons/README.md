@@ -10,4 +10,4 @@ If you have a Google account then please click the *Open in Colab* link. Otherwi
 
 ### Week 3
 
-Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-3-doing-data-analysis-2022-09-26.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-3-doing-data-analysis-2022-09-26.ipynb)
+Doing Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-3-doing-data-analysis-2022-09-26.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/HEAD?labpath=lessons%2Fdass-week-3-doing-data-analysis-2022-09-26.ipynb)
