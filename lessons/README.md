@@ -6,7 +6,7 @@ Typically you would download the data / code files to your local machine (e.g., 
 
 However you can complete the lessons online without the need to install or download anything. Simply click on the relevant link below.
 
-If you have a Google account then please click the *Open in Colab* link. Otherwise please click the *Binder* link.
+If you have a Google account then please click the *Open in Colab* link. Otherwise please click the *Launch Binder* link.
 
 ### Week 3
 
