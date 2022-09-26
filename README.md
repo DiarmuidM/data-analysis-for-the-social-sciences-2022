@@ -9,7 +9,7 @@ Specifically there is a set of interactive notebooks that allow learners to exec
 ## Materials
 
 The training materials can be found in the following folders:
-* [lessons](./code) - Jupyter Notebooks containing executable R code and real, open social science datasets.
+* [lessons](./lessons) - Jupyter Notebooks containing executable R code and real, open social science datasets.
 
 ## License
 
