@@ -13,6 +13,6 @@ The training materials can be found in the following folders:
 
 ## License
 
-Feel free to make use of these teaching materials for your own purposes, in accordance with the license requirements below:
+Feel free to make use of these teaching materials for your own purposes, in accordance with the license requirements outlined in [LICENSE.md](LICENSE.md)
 
-TBA
+Please check the license requirements for open data contained in this repository, as these may differ from the requirements covering the notebooks and other teaching materials.
