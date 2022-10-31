@@ -1,12 +1,3 @@
-name <- readline(prompt="Enter name: ")
-print(paste("Hi,", name, "enjoy learning more about R and exploring data!"))
-
-x * 5
-
-x <- 10 # create an object called 'x' and give it the value '10'
-
-x * 5 # multiply 'x' by 5
-
 natsal <- read.table("https://raw.githubusercontent.com/DiarmuidM/data-analysis-for-the-social-sciences-2022/main/lessons/data/natsal_3_teaching_open.tab", header=TRUE, na="NA", sep="\t")
 
 natsal
