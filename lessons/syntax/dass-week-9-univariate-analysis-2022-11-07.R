@@ -1,13 +1,10 @@
-name <- readline(prompt="Enter name: ")
-print(paste("Hi,", name, "enjoy learning more about R and exploring data!"))
+# Week 9 - R Syntax #
+#
+# Open this syntax file in RStudio or create your own file and copy-and-paste synatx as you need it.
+#
+#
 
-x * 5
-
-x <- 10 # create an object called 'x' and give it the value '10'
-
-x * 5 # multiply 'x' by 5
-
-country_ages <- read.csv("./data/median-age-our-world-in-data.csv", header=TRUE, na="NA")
+country_ages <- read.csv("https://raw.githubusercontent.com/DiarmuidM/data-analysis-for-the-social-sciences-2022/main/lessons/data/median-age-our-world-in-data.csv", header=TRUE, na="NA")
 country_ages_2015 <- country_ages[country_ages$Year==2015,]
 summary(country_ages$Age)
 
@@ -30,8 +27,6 @@ table(natsal$religimp)
 round(prop.table(table(natsal$religimp)) * 100, 0)
 
 barplot(table(natsal$religimp))
-
-# INSERT CODE HERE
 
 natsal$dage1ch[natsal$dage1ch==-1 | natsal$dage1ch==99] <- NA # convert "-1" and "99" to missing
 
@@ -57,4 +52,3 @@ summary(natsal$attconservative)
 
 sd(natsal$attconservative, na.rm=TRUE)
 
-# INSERT CODE HERE
