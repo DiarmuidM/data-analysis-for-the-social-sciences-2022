@@ -1,6 +1,6 @@
 # Week 9 - R Syntax #
 #
-# These are the R commands contained in the Week 10 notebook.
+# These are the R commands contained in the Week 9 notebook.
 #
 # Open this syntax file in RStudio or create your own file and copy-and-paste synatx as you need it.
 #
