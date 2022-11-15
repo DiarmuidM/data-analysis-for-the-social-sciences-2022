@@ -24,4 +24,4 @@ Bivariate Data Analysis [![Open In Colab](https://colab.research.google.com/asse
 
 Multivariate Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-11-multivariate-analysis-2022-11-21.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/HEAD?labpath=lessons%2Fdass-week-11-multivariate-analysis-2022-11-21.ipynb)
 
-Inferential Analysis 
+Inferential Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-11-inferential-analysis-2022-11-21.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/HEAD?labpath=lessons%2Fdass-week-11-inferential-analysis-2022-11-21.ipynb)
